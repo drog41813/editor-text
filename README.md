@@ -1,11 +1,11 @@
 # editor-text
 
 ## Description
-This command line application utilizes the concept of updating and keeping track of databases by allowing the user to access a company's employee databases, which includes the specific roles, salaries, and managers within the company. The user will be able to choose from a menu with various options such as being able to view all employees, add employee, update roles, viewing all roles, adding roles, and viewing/adding departments. When viewing employees, employee roles, and departments, a table will appear on the command terminal that will indicate the respective employees, roles, salaries, and potential managerial properties. 
+This PWA single-paged application is a text editor with the purpose of being able to take notes based on Javascript, specifically with syntax handling. This application utilizes various plugins within the page itself in order to produce the HTML file necessary , a manifest file with a manifest.json that will allow for functionality of the text editor while offline, as well as a service handler. 
 
 ## Usage 
-employee tracker video demo: https://drive.google.com/file/d/165MfpOXyNoXtqCXZDtcBxx7vKxM8J4AW/view
-employee tracker github repo: https://github.com/drog41813/Employee-track
+Deployed editor-text image: ![Alt text](editor-text.png)
+editor-text heroku deployment link https://editor-text1-1323cbe08701.herokuapp.com/
 
 
 
